@@ -1,4 +1,4 @@
-# Foxy Shooter 🦊🍎
+# Foxy Fruits 🦊🍎
 
 ¡Bienvenido a **Foxy Shooter**! Un juego divertido y emocionante donde controlas a un zorro que dispara frutas para defenderse de enemigos. ¿Podrás sobrevivir a las oleadas de enemigos y derrotar al temible boss?
 
